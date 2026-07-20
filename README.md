@@ -1,29 +1,52 @@
 # STM32 Learning
 
-## Introduction
+## Overview
 
-This repository records my STM32 learning process and embedded system projects.
+This repository documents my STM32 learning journey and embedded system projects developed during my Electronic Information Engineering Technology studies.
 
 ## Development Environment
 
-- STM32
-- Keil MDK
-- C Language
+- MCU: STM32
+- IDE: Keil MDK
+- Language: C
+- Version Control: Git & GitHub
 
-## Projects
+## Project List
 
-- PWM Experiment
-- Ultrasonic Distance Measurement
-- Line Following Robot
-- Smart Car Project
+### PWM Experiment
+- Generate PWM signals
+- LED brightness control
 
-## Learning Progress
+### Ultrasonic Distance Measurement
+- HC-SR04 ultrasonic sensor
+- Real-time distance measurement
 
-- [x] GPIO
-- [x] PWM
-- [ ] UART
-- [ ] ADC
-- [ ] Timer
-- [ ] FreeRTOS
+### Line Following Robot
+- Infrared sensors
+- Automatic line tracking
 
-More projects will be uploaded continuously.
+### Smart Car Project
+Features:
+- Line following
+- Obstacle avoidance
+- Ultrasonic distance measurement
+- PWM motor control
+
+## Skills Demonstrated
+
+- Embedded C Programming
+- STM32 Peripheral Configuration
+- PWM
+- GPIO
+- Timer
+- UART
+- Sensor Integration
+- Motor Control
+
+## Future Plans
+
+- FreeRTOS
+- CAN Bus
+- SPI
+- I2C
+- OLED Display
