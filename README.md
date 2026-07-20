@@ -1,52 +1,40 @@
-# STM32 Learning
+# STM32 Smart Car Project
 
-## Overview
+## Introduction
 
-This repository documents my STM32 learning journey and embedded system projects developed during my Electronic Information Engineering Technology studies.
+This project is an intelligent smart car developed based on STM32 during my Electronic Information Engineering Technology studies.
 
-## Development Environment
+The project focuses on embedded system development, motor control, and sensor integration.
 
-- MCU: STM32
-- IDE: Keil MDK
-- Language: C
-- Version Control: Git & GitHub
+## Functions
 
-## Project List
+- Line Following
+- Obstacle Avoidance
+- Ultrasonic Distance Measurement
+- PWM Motor Speed Control
 
-### PWM Experiment
-- Generate PWM signals
-- LED brightness control
+## Hardware
 
-### Ultrasonic Distance Measurement
-- HC-SR04 ultrasonic sensor
-- Real-time distance measurement
+- STM32 Microcontroller
+- Motor Driver Module
+- DC Motors
+- HC-SR04 Ultrasonic Sensor
+- Infrared Tracking Sensors
 
-### Line Following Robot
-- Infrared sensors
-- Automatic line tracking
+## Software
 
-### Smart Car Project
-Features:
-- Line following
-- Obstacle avoidance
-- Ultrasonic distance measurement
-- PWM motor control
+- C Language
+- Keil MDK
+- STM32 Development Environment
 
 ## Skills Demonstrated
 
 - Embedded C Programming
-- STM32 Peripheral Configuration
-- PWM
-- GPIO
-- Timer
-- UART
-- Sensor Integration
-- Motor Control
+- GPIO Configuration
+- PWM Control
+- Sensor Communication
+- Hardware Debugging
 
-## Future Plans
+## Project Status
 
-- FreeRTOS
-- CAN Bus
-- SPI
-- I2C
-- OLED Display
+Completed as a college embedded systems project.
