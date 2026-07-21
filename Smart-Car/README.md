@@ -1,29 +1,30 @@
-# STM32 Smart Car Project
+# STM32 Smart Car
 
 ## Introduction
+An intelligent vehicle project based on STM32.
 
-This project is an intelligent smart car developed with STM32.
-
-## Functions
-
-- Line Following
-- Obstacle Avoidance
-- Ultrasonic Distance Measurement
-- PWM Motor Speed Control
+## Features
+- Line Tracking
+- Ultrasonic Obstacle Avoidance
+- PWM Motor Control
+- Buzzer Alarm
+- Key Control
 
 ## Hardware
-
-- STM32
-- HC-SR04
-- Motor Driver
+- STM32F103
+- Ultrasonic Sensor HC-SR04
 - DC Motors
-- Infrared Sensors
+- Motor Driver
 
 ## Software
-
-- C Language
+- C
 - Keil MDK
+- STM32 Standard Peripheral Library
 
-## Project Status
+## Folder Structure
+Core/
+Hardware/
+System/
 
-Completed as a college embedded systems project.
+## Author
+Edison Wan
